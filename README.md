@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LariSerafim
-- 👀 I’m interested in Kotlin, JavaScript, CSS, HTML
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Python
 -  📫 How to reach me lariserafim0@gmail.com 
 
 <!---
